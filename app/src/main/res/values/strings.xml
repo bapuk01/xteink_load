@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">xteink_load</string>
+    <string name="label_reader_url">Адрес читалки (как на её экране, например http://192.168.1.102)</string>
+    <string name="hint_reader_url">http://192.168.1.102</string>
+    <string name="label_remote_folder">Папка на читалке</string>
+    <string name="btn_pick_folder">Выбрать папку с книгами</string>
+    <string name="folder_none">Папка не выбрана</string>
+    <string name="folder_selected">Папка: %s</string>
+    <string name="btn_save">Сохранить настройки</string>
+    <string name="btn_sync_now">Синхронизировать сейчас</string>
+    <string name="status_idle">Ещё не синхронизировалось</string>
+    <string name="status_running">Синхронизация…</string>
+    <string name="saved">Сохранено</string>
+</resources>
