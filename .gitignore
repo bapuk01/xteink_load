@@ -6,3 +6,5 @@ keystore/
 *.jks
 *.keystore
 *.apk
+# the signed release build is kept in the repo root on purpose
+!/xteink_load.apk
